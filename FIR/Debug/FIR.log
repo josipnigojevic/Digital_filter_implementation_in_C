@@ -1,0 +1,5 @@
+﻿  FIR.c
+C:\Users\josip\OneDrive\Dokumenti\Desktop\sdos2\FIR\FIR.c(91,48): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\josip\OneDrive\Dokumenti\Desktop\sdos2\FIR\FIR.c(91,35): warning C4024: 'conv': different types for formal and actual parameter 5
+C:\Users\josip\OneDrive\Dokumenti\Desktop\sdos2\FIR\FIR.c(72,7): warning C4101: 'odziv': unreferenced local variable
+  FIR.vcxproj -> C:\Users\josip\OneDrive\Dokumenti\Desktop\sdos2\FIR\Debug\FIR.exe
